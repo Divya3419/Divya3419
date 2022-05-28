@@ -3,7 +3,7 @@
   <a href="#"><img width="60%" src="https://readme-typing-svg.herokuapp.com?color=purple&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salavisushant&label=Profile%20views&color=0e75b6&style=flat" alt="salavisushant" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=salavisushant&label=Profile%20views&color=0e75b6&style=flat" alt="divya" /> </p> -->
 
 <h3 align="center">🌱  I have always been curious about technology, even as a child. I spent a lot of time around computers and that made me even more curious. Once I graduated in engineering, I decided that it was time to satiate my curiosity and dive into the world of coding.</h3>
 
