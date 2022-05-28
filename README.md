@@ -1,4 +1,4 @@
-<h1 align="center">Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span>, I'm Sushant Salavi</h1>
+<h1 align="center">Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span>, I'm Divya Salavi</h1>
   <p align="center">
   <a href="#"><img width="60%" src="https://readme-typing-svg.herokuapp.com?color=purple&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></a>
 </p>
