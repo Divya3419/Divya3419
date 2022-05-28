@@ -9,11 +9,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 📫 How to reach me **salavisush88@gmail.com**
+- 📫 How to reach me **divyajain3419@gmail.com**
 
-- 🚀 My Portfolio **https://sushantsalavi.vercel.app/**
+- 🚀 My Portfolio ****
 
-- 👨‍💻 See My work on  ***[Github Repositories](https://github.com/salavisushant?tab=repositories)***
+- 👨‍💻 See My work on  ***[Github Repositories](https://github.com/Divya3419?tab=repositories)***
 
 - 🌱 I am also interested in Sketching and Photography.
 
