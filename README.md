@@ -20,7 +20,7 @@ Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 - 👨‍💻 See My work on  ***[Github Repositories](https://github.com/Divya3419?tab=repositories)***
 
-- 🌱 I am also interested in Sketching and Photography.
+- 🌱 I am also interested in Playing Badminton.
 
 </br>
 
