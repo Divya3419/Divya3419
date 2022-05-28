@@ -5,7 +5,9 @@ Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
   <p align="center">
   <a href="#"><img width="60%" src="https://readme-typing-svg.herokuapp.com?color=purple&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></a>
 </p>
-
+<p align="center",width:"100%">
+  <img  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
+  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divya3419&label=Profile%20views&color=0e75b6&style=flat" alt="divya" /> </p>
 
 <!-- <h3 align="center">🌱  I have always been curious about technology, even as a child. I spent a lot of time around computers and that made me even more curious. Once I graduated in engineering, I decided that it was time to satiate my curiosity and dive into the world of coding.</h3> -->
@@ -64,6 +66,7 @@ Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 <br/>
 
 </br>
+
 
 <p align="center">
   <img  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif">
