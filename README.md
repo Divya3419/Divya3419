@@ -1,5 +1,6 @@
 <h1 align="center">
-Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></span>, I'm Divya</h1>
+Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/></span>, I'm Divya</h1>
+<img src="https://cdn.dribbble.com/users/3093/screenshots/849482/hand-icon-animation.gif"/>
  
  
   <p align="center">
