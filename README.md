@@ -17,7 +17,7 @@ Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 - 📫 How to reach me **divyajain3419@gmail.com**
 
-- 🚀 My Portfolio **https://divya-masaischool-portfolio.netlify.app/**
+- 🚀 My Portfolio **https://divya-portfolio-masaischool-mern.netlify.app/**
 
 - 👨‍💻 See My work on  ***[Github Repositories](https://github.com/Divya3419?tab=repositories)***
 
