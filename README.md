@@ -6,12 +6,14 @@ Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
   <p align="center">
   <a href="#"><img width="80%" src="https://readme-typing-svg.herokuapp.com?color=purple&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></a>
 </p>
-<p align="center">
-  <img width="100%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
-  </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divya3419&label=Profile%20views&color=0e75b6&style=flat" alt="divya" /> </p>
 
 <h3 align="center">🌱  I have always been curious about technology,I spent a lot of time around computers and that made me even more curious. and I decided that it was time to satiate my curiosity and dive into the world of coding.</h3>
+
+<p align="center">
+  <img width="100%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
+  </p>
 
 ## 🙋‍♂️ About Me
 
