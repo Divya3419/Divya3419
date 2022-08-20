@@ -51,6 +51,8 @@ Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
     <a href="https://www.w3schools.com/js/js_json_intro.asp"><img src="https://img.icons8.com/material-outlined/48/000000/json.png"/></a>
     <a href="https://www.w3schools.com/whatis/whatis_npm.asp"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
     <a href="https://chakra-ui.com/"><img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/> </a>
+ <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
+ <a href="https://www.heroku.com/"><img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
 </p>
 
 
