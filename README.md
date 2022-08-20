@@ -16,6 +16,7 @@ Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
   </p>
 
 ## 🙋‍♂️ About Me
+- 📫 I am from Meerut,Uttar Pradesh **
 
 - 📫 How to reach me **divyajain3419@gmail.com**
 
