@@ -1,10 +1,10 @@
-<h1 align="center">
-Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/></span>, I'm Divya</h1>
+
+<h1 align="center">Hi 👋, I'm Divya</h1>
 
  
  
   <p align="center">
-  <a href="#"><img width="80%" src="https://readme-typing-svg.herokuapp.com?color=purple&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></a>
+  <a href="#"><img width="80%" src="https://readme-typing-svg.herokuapp.com?color=purple&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;React+Frontend+Developer"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divya3419&label=Profile%20views&color=0e75b6&style=flat" alt="divya" /> </p>
