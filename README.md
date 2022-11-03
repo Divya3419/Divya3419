@@ -48,7 +48,7 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://www.w3schools.com/js/js_json_intro.asp"><img src="https://img.icons8.com/material-outlined/48/000000/json.png"/></a>
+    <a href="https://www.w3schools.com/js/js_json_intro.asp"><img src="https://img.icons8.com/color/60/000010/json.png"/></a>
     <a href="https://www.w3schools.com/whatis/whatis_npm.asp"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
     <a href="https://chakra-ui.com/"><img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/> </a>
  <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
