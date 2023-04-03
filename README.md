@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **divyajain3419@gmail.com**
 
-- 🚀 My Portfolio **https://portfolio-divya.netlify.app/**
+- 🚀 My Portfolio **https://divyasportfolio.netlify.app/**
 
 - 👨‍💻 See My work on  ***[Github Repositories](https://github.com/Divya3419?tab=repositories)***
 
