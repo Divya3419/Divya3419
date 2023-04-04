@@ -12,7 +12,7 @@
 <h3 align="center">🌱  I have always been curious about technology,I spent a lot of time around computers and that made me even more curious. and I decided that it was time to satiate my curiosity and dive into the world of coding.</h3>
 
 <p align="center">
-  <img width="100%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
+  <img width="100%" src="https://www.technoloader.com/blog/wp-content/uploads/2019/08/ReactJS-developer.gif"/>
   </p>
 
 ## 🙋‍♂️ About Me
